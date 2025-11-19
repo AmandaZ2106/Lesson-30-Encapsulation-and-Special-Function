@@ -8,6 +8,6 @@ class Computer:
         print("Price:",price)
 com=Computer()
 com.__maxprice=100
-com.sell
+com.sell()
 com.price(2000)
-    
+com.sell()
